@@ -40,6 +40,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: deploy
+          publish_branch: deploy-page
           force_orphan: true # 每次部署都覆盖历史，保持分支整洁
           cname: '' # 如果有自定义域名，请在此处设置
