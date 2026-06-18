@@ -1,0 +1,6 @@
+{
+  "name": "FlashGen Simulator",
+  "description": "A retro-styled Flash Player simulator that uses Gemini AI to generate vector animations (SVG) from text descriptions, mimicking the classic early 2000s web experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
